@@ -85,4 +85,4 @@ See `paper/carbonglobe_paper.pdf` for the full description and the novelty analy
 
 ## License
 
-Add a license of your choice (for example MIT) before publishing.
+MIT Licence
