@@ -3,9 +3,6 @@
 Solution for the **IEEE BigData Cup 2026 AI Emulation Challenge (CarbonGlobe, Kaggle)**.
 Public leaderboard score: **0.066** (relative MSE, lower is better), down from 0.153 for our neural baseline.
 
-**Team:** Hansika N M, Jayasree B, Janani S P
-Department of Computer Science and Engineering, SSN College of Engineering, Chennai, India
-
 ---
 
 ## Task
